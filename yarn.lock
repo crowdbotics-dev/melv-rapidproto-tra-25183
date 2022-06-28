@@ -1263,6 +1263,9 @@
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
+"@screens/product-favorite@file:./screens/product-favorite/":
+  version "1.0.0"
+
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 

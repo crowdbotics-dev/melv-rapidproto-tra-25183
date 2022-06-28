@@ -77,6 +77,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-contact-us](screens/contact-us)
 - [screen-create-post-2](screens/create-post-1)
 - [screen-getting-started](screens/getting-started)
+- [screen-store-products-favorites](screens/product-favorite)
 
 # Getting started: Frontend
 

@@ -31,6 +31,7 @@
     "@screens/image-editing-edit": "file:./screens/image-editing-edit/",
     "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
     "@screens/order-complete": "file:./screens/order-complete/",
+    "@screens/product-favorite": "file:./screens/product-favorite/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/settings": "file:./screens/settings/",
