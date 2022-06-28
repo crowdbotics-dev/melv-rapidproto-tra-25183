@@ -1247,7 +1247,7 @@
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
-"@screens/create-post-1@file:./screens/create-post-1/":
+"@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":
@@ -1269,6 +1269,9 @@
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
+  version "1.0.0"
+
+"@screens/rate-the-app@file:./screens/rate-the-app/":
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
