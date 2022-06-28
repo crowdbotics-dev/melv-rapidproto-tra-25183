@@ -57,6 +57,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-direct-messages](screens/direct-messages)
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
