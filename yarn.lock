@@ -1217,10 +1217,13 @@
 "@screens/book-appointment@file:./screens/book-appointment":
   version "1.0.0"
 
-"@screens/chat-listing@file:./screens/chat-listing/":
+"@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":
+  version "1.0.0"
+
+"@screens/image-editing-edit@file:./screens/image-editing-edit/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

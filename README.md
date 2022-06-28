@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-direct-messages](screens/direct-messages)
 - [screen-about-the-app](screens/about-the-app)
 - [screen-chat-listing](screens/chat-listing)
+- [screen-image-editing-edit](screens/image-editing-edit)
 
 # Getting started: Frontend
 

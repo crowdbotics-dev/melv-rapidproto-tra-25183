@@ -20,6 +20,7 @@
     "@screens/book-appointment": "file:./screens/book-appointment/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
+    "@screens/image-editing-edit": "file:./screens/image-editing-edit/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
