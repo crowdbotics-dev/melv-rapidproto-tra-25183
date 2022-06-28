@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [screen-welcome](screens/welcome)
 - [screen-token](screens/token)
+- [screen-order-complete](screens/order-complete)
 
 # Getting started: Frontend
 

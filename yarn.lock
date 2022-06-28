@@ -1238,6 +1238,9 @@
 "@screens/map-live-tracking@file:./screens/map-live-tracking":
   version "1.0.0"
 
+"@screens/order-complete@file:./screens/order-complete/":
+  version "1.0.0"
+
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
@@ -1253,7 +1256,7 @@
 "@screens/social-feed@file:./screens/social-feed":
   version "1.0.0"
 
-"@screens/token@file:./screens/token/":
+"@screens/token@file:./screens/token":
   version "1.0.0"
 
 "@screens/welcome@file:./screens/welcome":
