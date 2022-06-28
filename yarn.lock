@@ -1244,10 +1244,13 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
+"@screens/contact-us@file:./screens/contact-us/":
+  version "1.0.0"
+
 "@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
-"@screens/forgot-password@file:./screens/forgot-password/":
+"@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
 "@screens/image-editing-edit@file:./screens/image-editing-edit":
