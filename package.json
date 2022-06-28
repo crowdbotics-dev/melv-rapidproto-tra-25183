@@ -25,6 +25,7 @@
     "@screens/book-appointment": "file:./screens/book-appointment/",
     "@screens/chat-listing": "file:./screens/chat-listing/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
+    "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/image-editing-edit": "file:./screens/image-editing-edit/",
     "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
     "@screens/order-complete": "file:./screens/order-complete/",

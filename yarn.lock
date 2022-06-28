@@ -998,7 +998,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1245,6 +1245,9 @@
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":
+  version "1.0.0"
+
+"@screens/forgot-password@file:./screens/forgot-password/":
   version "1.0.0"
 
 "@screens/image-editing-edit@file:./screens/image-editing-edit":
