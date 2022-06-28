@@ -1223,7 +1223,10 @@
 "@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
-"@screens/image-editing-edit@file:./screens/image-editing-edit/":
+"@screens/image-editing-edit@file:./screens/image-editing-edit":
+  version "1.0.0"
+
+"@screens/map-live-tracking@file:./screens/map-live-tracking/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
