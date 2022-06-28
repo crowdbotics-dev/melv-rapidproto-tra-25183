@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-token](screens/token)
 - [screen-order-complete](screens/order-complete)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
