@@ -71,7 +71,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-welcome](screens/welcome)
 - [screen-token](screens/token)
 - [screen-order-complete](screens/order-complete)
-- [react-native-onboarding](modules/onboarding)
 - [react-native-maps](modules/maps)
 - [react-native-login](modules/login)
 - [screen-forgot-password](screens/forgot-password)
