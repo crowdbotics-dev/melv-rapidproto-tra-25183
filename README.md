@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-chat-listing](screens/chat-listing)
 - [screen-image-editing-edit](screens/image-editing-edit)
 - [screen-map-live-tracking](screens/map-live-tracking)
+- [screen-profile](screens/profile)
 
 # Getting started: Frontend
 
