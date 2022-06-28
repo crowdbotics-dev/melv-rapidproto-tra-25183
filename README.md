@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-map-live-tracking](screens/map-live-tracking)
 - [screen-profile](screens/profile)
 - [screen-rate-the-app](screens/rate-the-app)
+- [screen-settings](screens/settings)
 
 # Getting started: Frontend
 

@@ -24,6 +24,7 @@
     "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
+    "@screens/settings": "file:./screens/settings/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",

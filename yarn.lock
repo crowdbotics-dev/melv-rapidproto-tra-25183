@@ -1232,7 +1232,10 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/rate-the-app@file:./screens/rate-the-app/":
+"@screens/rate-the-app@file:./screens/rate-the-app":
+  version "1.0.0"
+
+"@screens/settings@file:./screens/settings/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
