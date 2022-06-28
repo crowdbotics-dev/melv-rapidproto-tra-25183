@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-rate-the-app](screens/rate-the-app)
 - [screen-settings](screens/settings)
 - [screen-signup](screens/signup)
+- [screen-social-feed](screens/social-feed)
 
 # Getting started: Frontend
 
