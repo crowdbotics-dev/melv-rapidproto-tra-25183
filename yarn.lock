@@ -1256,6 +1256,9 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
+"@screens/getting-started@file:./screens/getting-started/":
+  version "1.0.0"
+
 "@screens/image-editing-edit@file:./screens/image-editing-edit":
   version "1.0.0"
 
@@ -1266,9 +1269,6 @@
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
-  version "1.0.0"
-
-"@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
