@@ -1244,7 +1244,10 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/contact-us@file:./screens/contact-us/":
+"@screens/contact-us@file:./screens/contact-us":
+  version "1.0.0"
+
+"@screens/create-post-1@file:./screens/create-post-1/":
   version "1.0.0"
 
 "@screens/direct-messages@file:./screens/direct-messages":
