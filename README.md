@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-settings](screens/settings)
 - [screen-signup](screens/signup)
 - [screen-social-feed](screens/social-feed)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
